@@ -1,0 +1,26 @@
+.promotion {
+    background-color: rgba(0, 0, 0, 0.866);
+    display: inline-block;
+
+    font-family: system-ui;
+    color: rgb(164, 164, 164);
+    
+    width: 390px;
+}
+
+.head {
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+}
+
+.desc {
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
