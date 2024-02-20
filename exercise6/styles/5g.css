@@ -1,0 +1,21 @@
+p {
+    font-family: Arial;
+    margin: 7 0;
+    font-size: 17px;
+  }
+
+  .name {
+    font-weight: bold;
+  }
+
+  .tag {
+    color: grey;
+  }
+  
+  .second {
+    margin-top: 20px;
+  }
+
+  .at {
+    color: rgb(0, 132, 255);
+  }
